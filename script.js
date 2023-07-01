@@ -1,5 +1,5 @@
 function updateTimer() {
-      var timerElement = document.getElementById("#timer");
+      var timerElement = document.getElementById('timer');
       var now = new Date();
 
       // Format the date
